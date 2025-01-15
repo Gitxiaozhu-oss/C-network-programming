@@ -1,0 +1,4 @@
+/root/C++-network-programming/memory_pool_file/build/CMakeFiles/edit_cache.dir
+/root/C++-network-programming/memory_pool_file/build/CMakeFiles/rebuild_cache.dir
+/root/C++-network-programming/memory_pool_file/build/CMakeFiles/server.dir
+/root/C++-network-programming/memory_pool_file/build/CMakeFiles/client.dir

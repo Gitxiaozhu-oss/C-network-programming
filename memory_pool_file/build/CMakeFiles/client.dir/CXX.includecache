@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/C++-network-programming/memory_pool_file/client.cpp
+iostream
+-
+vector
+-
+string
+-
+thread
+-
+random
+-
+ctime
+-
+chrono
+-
+unistd.h
+-
+arpa/inet.h
+-
+sys/socket.h
+-
+cstring
+-
+
